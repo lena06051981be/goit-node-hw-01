@@ -8,19 +8,22 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node index",
+    "start:dev": "nodemon index"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxexc/goit-node-hw-01.git"
+    "url": "git+https://github.com/lena06051981be/goit-node-hw-01.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maxexc/goit-node-hw-01/issues"
+    "url": "https://github.com/lena06051981be/goit-node-hw-01/issues"
   },
-  "homepage": "https://github.com/maxexc/goit-node-hw-01#readme",
+  "homepage": "https://github.com/lena06051981be/goit-node-hw-01#readme",
   "dependencies": {
-    "calc-js": "^2.0.7"
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0"
   }
 }
