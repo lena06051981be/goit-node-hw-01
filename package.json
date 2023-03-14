@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lena06051981be/goit-node-hw-01#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "commander": "^10.0.0",
     "uuid": "^9.0.0"
   }
